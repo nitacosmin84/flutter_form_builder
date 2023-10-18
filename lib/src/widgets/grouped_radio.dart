@@ -172,7 +172,7 @@ class GroupedRadio<T> extends StatefulWidget {
 
   final ControlAffinity controlAffinity;
 
-  final CrossAxisAlignment? controlCrossAxisAlignment;
+  final CrossAxisAlignment controlCrossAxisAlignment;
 
   const GroupedRadio({
     super.key,
